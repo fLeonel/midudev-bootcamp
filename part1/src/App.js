@@ -17,7 +17,6 @@ const App = (props) => {
   </div>
   )
 }
-
 const Dennis ={
   name:'Dennis Ramirez',
   age: 22,
